@@ -34,10 +34,9 @@
 5. **Ошибки и их решения**
    - `no such table: tasks`: увеличить версию схемы в `DBHelper` при изменениях или переустановить приложение.
    - Блокировки: не держать долгих операций на UI-потоке, все вызовы `await`.
+<img width="468" height="922" alt="2025-11-27_22-28-53" src="https://github.com/user-attachments/assets/965a368c-0395-4e06-868e-3c18625306b2" /><img width="395" height="858" alt="2025-11-27_22-29-06" src="https://github.com/user-attachments/assets/3f64d6fb-455b-414a-b1bd-765c9ca29d96" />
 
-## Ссылки на файлы
-- `lib/models.dart`
-- `lib/data/db_helper.dart`
-- `lib/tasks_page.dart`
-- `lib/main.dart`
-# pks_lab10
+<img width="425" height="911" alt="2025-11-27_22-29-19" src="https://github.com/user-attachments/assets/e6f42fcf-bb95-4ce0-b0c9-b9ab5e7e1ff1" />
+<img width="1205" height="826" alt="image" src="https://github.com/user-attachments/assets/696e70c4-4524-4216-af4c-90b719a097bf" />
+
+
